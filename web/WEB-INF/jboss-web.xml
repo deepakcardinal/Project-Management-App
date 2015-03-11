@@ -1,0 +1,4 @@
+<jboss-web>
+<context-root>/</context-root>
+<!-- <security-domain>java:/jaas/comunitee</security-domain>-->
+</jboss-web>
